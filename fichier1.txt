@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s’appelle Windows
+ Le numéro de série du volume est 0673-C476
+
+ Répertoire de C:\apps\app1
+
+12/03/2024  23:49    <DIR>          .
+12/03/2024  23:47    <DIR>          ..
+12/03/2024  23:49                 0 fichier1.txt
+               1 fichier(s)                0 octets
+               2 Rép(s)  324 460 744 704 octets libres
